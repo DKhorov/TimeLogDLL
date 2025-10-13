@@ -114,5 +114,4 @@ owner AtomGlide Media Social
 
 
 
-Хочешь, я сгенерирую **реалистичный баннер (banner.png)** в стиле tech-UI / minimal orange (под твой стиль `Color(237,89,26)`)?
-```
+
