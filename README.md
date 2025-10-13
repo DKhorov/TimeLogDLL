@@ -1,8 +1,9 @@
 
 
-![TimeLogDLL Banner](https://github.com/yourusername/timelogdll/blob/main/assets/demo.png)
-
 # ⏱️ TimeLogDLL — Java Time Visualization Component
+
+![TimeLogDLL Banner](https://github.com/yourusername/timelogdll/blob/main/demo.png)
+
 
 > **A dedicated timelog component for your Java projects.**  
 > The **AtomGlide Fitness Pro + AtomGlide Develop Care** package provides the `timelogdll` component for your projects.
@@ -101,7 +102,7 @@ owner AtomGlide Media Social
 
 | Вариант      | Пример                                                                            |
 | ------------ | --------------------------------------------------------------------------------- |
-| Демонстрация | ![Demo](https://github.com/yourusername/timelogdll/blob/main/assets/demo.png)     |
+| Демонстрация | ![Demo](https://github.com/yourusername/timelogdll/blob/main/demo.png)     |
 
 
 ---
