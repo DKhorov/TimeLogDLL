@@ -2,7 +2,7 @@
 
 # ⏱️ TimeLogDLL — Java Time Visualization Component
 
-![TimeLogDLL Banner](https://github.com/yourusername/timelogdll/blob/main/demo.png)
+![TimeLogDLL Banner](https://github.com/dkhorov/timelogdll/blob/main/demo.png)
 
 
 > **A dedicated timelog component for your Java projects.**  
@@ -102,7 +102,7 @@ owner AtomGlide Media Social
 
 | Вариант      | Пример                                                                            |
 | ------------ | --------------------------------------------------------------------------------- |
-| Демонстрация | ![Demo](https://github.com/yourusername/timelogdll/blob/main/demo.png)     |
+| Демонстрация | ![Demo](https://github.com/dkhorov/timelogdll/blob/main/demo.png)     |
 
 
 ---
