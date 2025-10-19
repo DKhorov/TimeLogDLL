@@ -22,14 +22,11 @@
 ---
 
 
-## ✨ Обновление 
+## ✨ Обновление 300w2234
 
-- 🔹 Элегантная визуализация времени в виде кругового индикатора  
-- 🔹 Поддержка часов, минут и секунд  
-- 🔹 Полностью автономный `JPanel`-компонент  
-- 🔹 Простое добавление в любое Java Swing приложение  
-- 🔹 Настраиваемые цвета и размеры  
-- 🔹 Чистый и современный дизайн BSI Gen 2
+- Новые цвета таймера: red yellow green whit
+- Теперь при создании класса в параметрах указывается ширина и высота таймера , размер шрифта и цвет фона таймера
+  
 
 ---
 
@@ -55,7 +52,7 @@ public class DemoApp {
         SwingUtilities.invokeLater(() -> {
             JFrame frame = new JFrame("TimeLog Demo");
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-            frame.add(new timelogdll(0, 2, 5)); // часы, минуты, секунды
+            frame.add(new timelogdll(0, 2, 5,ширина,высота,red,32)); 
             frame.pack();
             frame.setLocationRelativeTo(null);
             frame.setVisible(true);
